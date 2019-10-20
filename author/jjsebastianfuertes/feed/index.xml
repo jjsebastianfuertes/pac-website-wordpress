@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jjsebastianfuertes &#8211; pac-website-wordpress</title>
+	<atom:link href="/https://jjsebastianfuertes.github.io/pac-website-wordpress/author/jjsebastianfuertes/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://jjsebastianfuertes.github.io/pac-website-wordpress</link>
+	<description>Otro sitio realizado con WordPress</description>
+	<lastBuildDate>Sun, 20 Oct 2019 06:11:41 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>¡Hola, mundo!</title>
+		<link>/https://jjsebastianfuertes.github.io/pac-website-wordpress/2019/10/20/hola-mundo/</link>
+				<comments>/https://jjsebastianfuertes.github.io/pac-website-wordpress/2019/10/20/hola-mundo/#comments</comments>
+				<pubDate>Sun, 20 Oct 2019 06:11:41 +0000</pubDate>
+		<dc:creator><![CDATA[jjsebastianfuertes]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">/https://jjsebastianfuertes.github.io/pac-website-wordpress/?p=1</guid>
+				<description><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!]]></description>
+								<content:encoded><![CDATA[
+<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
+]]></content:encoded>
+							<wfw:commentRss>/https://jjsebastianfuertes.github.io/pac-website-wordpress/2019/10/20/hola-mundo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
